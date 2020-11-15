@@ -51,26 +51,13 @@ header {
 }
 
 .card-body {
-  min-height: 100px;
+                                         min-height: 100px;
 }
 
-.card-footer {
-  text-align: center;
-}
 
-.card-footer::before {
-  content: " ";
-  display: block;
-  width: 100%;
-  background: #e7e9eb;
-  height: 2px;
-}
 
-.card-footer::after {
-  content: " ";
-  display: block;
-  clear: both;
-}
+
+
 
 .btn {
   border: none;
@@ -135,3 +122,23 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+
+
+.card-footer {
+  text-align: center;
+}
+
+.card-footer::before {
+  content: " ";
+  display: block;
+  width: 100%;
+  background: #e7e9eb;
+  height: 2px;
+}
+
+.card-footer::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+

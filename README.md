@@ -1,25 +1,23 @@
-# Password-generator
+# Password Generator
 
-<!-- Repository contains quality README file with description, screenshot, and link to deployed application. -->
+## Description
+Generate yourself a newpassword between 8-128 characters containing Upper and lower case, numbers, symbols based on the criteria selected.
 
-When a user clicks a the generate password button they are prompted to select length of password which is betweeen 8 and 128 characters.
+## Instalation
+https://6bodaley6.github.io/Password-generator/
 
-If they select a number within the criteria above they are then asked if they would like numbers in their password.
 
-Then they are window alerted if they would like lowercase letters as well.
+## Preview
+![Screen Shot 2020-12-05 at 3 22 05 PM](https://user-images.githubusercontent.com/70559889/101266639-03ef0d00-370e-11eb-8e8d-c69dc0cff99c.png)
 
-Then they are window alerted if they would like uppercase letters as well.
 
-Then they are window alerted if they would like special characters as well.
 
-Then the screen will display the password based on the criteria the user selected.
+## Instructions
 
-## Usage
+*Open the page
+*Press Generate Password button
+*select criteria for password with the options of Uppercase Lowercase numbers and symbols
 
-''JavaScript, Html, Css
+## Future Development
 
-# Contributing
-
-Pull request are welcome. For major changes, please open an issue first to dicuss what you would like to change.
-
-<!-- ![Alt text](http://full/path/to/img.jpg "Optional title") -->
+- Edit task type
